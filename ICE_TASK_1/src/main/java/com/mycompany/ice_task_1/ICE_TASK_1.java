@@ -1,6 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
+//Code Attribution 
+//Title: Java Arrays
+//Author: w3schools
+//Date: n.d
+//Version: 1
+//Availability: https://www.w3schools.com/java/java_arrays.asp
 
 package com.mycompany.ice_task_1;
 
